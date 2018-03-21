@@ -6,7 +6,7 @@ class Login extends CI_Controller{
   public function __construct()
   {
     parent::__construct();
-		$this->load->helper('url'); // For Base URLs
+		$this->load->helper('url'); // For Base URLs sdasdj 
   }
 
   function index()
